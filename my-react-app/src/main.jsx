@@ -1,4 +1,4 @@
-
+// first steps for creating root using createRoot then render and include div element
 import { createRoot } from 'react-dom/client'
 import './index.css'
 
