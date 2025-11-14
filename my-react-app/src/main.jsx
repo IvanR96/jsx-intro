@@ -10,7 +10,7 @@ createRoot(document.getElementById('root')).render(
     <ul>
       <li>American Truck Simulator</li>
       <li>Helldivers 2</li>
-      <li>Halo 4</li>
+      <li>Kingdom Come Deliverance 2</li>
     </ul>
   </div>
 )
