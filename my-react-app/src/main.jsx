@@ -2,12 +2,13 @@
 import { createRoot } from 'react-dom/client'
 import './index.css'
 
-const name = "Ivan";
+const fName = "Ivan ";
+const lName = "Rios";
 const luckyNumber = Math.floor(Math.random() * 100);
 
 createRoot(document.getElementById('root')).render(
   <div>
     <h1>My lucky number</h1>
-    <p>{name}'s lucky number is {luckyNumber}!</p>
+    <p>{fName + lName}'s lucky number is {luckyNumber}!</p>
   </div>
 )
