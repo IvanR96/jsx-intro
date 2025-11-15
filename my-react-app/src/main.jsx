@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 
 const name = "Ivan";
-const luckyNumber = 35;
+const luckyNumber = Math.floor(Math.random() * 100);
 
 createRoot(document.getElementById('root')).render(
   <div>
