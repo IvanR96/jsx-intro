@@ -9,7 +9,7 @@ createRoot(document.getElementById('root')).render(
     <h1>{name}'s Favorite Games</h1>
     <ul>
       <li>American Truck Simulator</li>
-      <li>Helldivers 2</li>
+      <li>Resident Evil 0</li>
       <li>Kingdom Come Deliverance 2</li>
     </ul>
   </div>
